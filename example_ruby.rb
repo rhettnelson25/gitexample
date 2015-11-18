@@ -1,2 +1,1 @@
-random stuff .
-asdas
+def method
